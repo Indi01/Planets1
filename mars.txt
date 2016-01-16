@@ -2,4 +2,8 @@ mars is my favourite
 two moons, bla bla
 mummy will like the dryness of mars
 partner line! :D
+<<<<<<< HEAD
 good addition
+=======
+adding a new line :)
+>>>>>>> 7a4c0636d1d2c43ad4d0a281a3ca645c1184ee46
